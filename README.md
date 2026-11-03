@@ -192,6 +192,4 @@ La línea base tiene exactitud aceptable gracias al desbalance, pero **sensibili
 
 | Corrida | Nota | Agujero que encontró | Qué cambiamos |
 |---|---|---|---|
-| 1 | (completar tras enviar al bot) | (completar) | (completar) |
-| 2 | (completar tras enviar al bot) | (completar) | (completar) |
-| 3 | (completar tras enviar al bot) | (completar) | (completar) |
+| 1 | 9,5 | Completar bitacora | La bitacora fue completada |
