@@ -1,10 +1,10 @@
-# <Código> · <Título de su problemática>
+# T01.csv · ¿Este inicio de sesión es una intrusión?
 
 > **Hackatón IIA · UADE · 3.4.257.** Este README es la plantilla del grupo. En su fork, reemplacen todo lo que está entre `< >` y borren esta nota. Las bases están en `BASES.md` y su ficha en `problematicas/`.
 
-**Integrantes:** <nombre y apellido> · <nombre y apellido>
-**IA declarada:** <la del grupo desde la Clase 1>
-**Pista:** <Neurona / Reglas / Agente>
+**Integrantes:** Agustín Pablo Puzino · Ramiro García Loperena
+**IA declarada:** Claude
+**Pista:** Neurona
 **Publicación en LinkedIn:** <link>
 
 ---
