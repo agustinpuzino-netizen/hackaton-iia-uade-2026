@@ -3,7 +3,7 @@
 **Integrantes:** Ramiro Garcia Loperena · Agustin Pablo Puzino
 **IA declarada:** Claude
 **Pista:** Neurona
-**Publicación en LinkedIn:** (completar link)
+**Publicación en LinkedIn:** https://lnkd.in/p/daT9Wgur
 
 ---
 
